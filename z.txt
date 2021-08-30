@@ -1,5 +1,4 @@
-正在直播,https://xw.al/suvvj
-
+正在直播,https://xw.al/7rket
 
 
 中国央视,#genre#
@@ -2292,8 +2291,8 @@ iHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 24,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/3305a243b56947a7b802abc94f975a7c
 25,https://sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-0004/cf10ec87eb67431da1904a7d0858745e
 26,https://sf3-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/92861545c0bf427fb30c00e00c025f49
-27,https://xw.al/suvvj
-28,https://xw.al/suvvj
+27,https://xw.al/7rket
+28,https://xw.al/7rket
 
 01,https://mpvideo.qpic.cn/0bf25eaegaaalqaeflis7fqvb2odipuqaqya.f10002.mp4?dis_k=850fd99ea617a00a38044270b7991b7e&dis_t=1630231803
 02,https://mpvideo.qpic.cn/0bf24eaeuaaaj4alouyr7fqvbyodjlqqasqa.f10002.mp4?dis_k=14fed08449bbb3edd0a134015712a98f&dis_t=1630231779
@@ -2316,13 +2315,13 @@ iHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 19,https://mpvideo.qpic.cn/0bf2puagkaaaqianhki73jqva7odmv6qazia.f10002.mp4?dis_k=d9d9e3007b10cd278f8f6d960c76574b&dis_t=1630231235
 20,https://mpvideo.qpic.cn/0bf2lqajgaaa4eagd2jafvqvaxgdsnoabeya.f10002.mp4?dis_k=b9e33692b2682454c180d8961c6c1183&dis_t=1630231201
 21,https://mpvideo.qpic.cn/0bf2jiahcaaaxqaor4jdyzqvaswdoffaa4ia.f10002.mp4?dis_k=cafb84ddd2f40b3f145f1e1028dc6276&dis_t=1630230961
-22,http://sub.freetzi.com/tv/qingyuan.png
-23,http://sub.freetzi.com/tv/qingyuan.png
+22,https://xw.al/7rket
+23,https://xw.al/7rket
 24,https://mpvideo.qpic.cn/0b78naaaaaaa7yaffybi7fqva2gdabuaaaaa.f10002.mp4?dis_k=b410f0bd27742e2f13d0f12c8b4aa2fe&dis_t=1630230340
 25,https://mpvideo.qpic.cn/0bf2wiaaqaaaheaotxbi4zqvbmwdbczaacaa.f10002.mp4?dis_k=9fe16b82bebdb96ba13e6173d7442b12&dis_t=1630230424
 26,https://mpvideo.qpic.cn/0bf2geaayaaaxeadyobk4fqvamodbqyqadaa.f10002.mp4?dis_k=300eed585d3aa97a008201ad2ea5970c&dis_t=1630230782
-27,https://xw.al/suvvj
-28,https://xw.al/suvvj
+27,https://xw.al/7rket
+28,https://xw.al/7rket
 
 
 01,https://lf3-toutiao-ckv-tos.pstatp.com/obj/tos-cn-v-0004/c639408a3865418a894b6ed0e901da64
