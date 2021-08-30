@@ -216,7 +216,7 @@ CRI 闽南之音,http://sk.cri.cn/minnan.m3u8
 CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
-香港,#genre#
+香港_0830,#genre#
 港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
 港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8#https://cdn.hkdtmb.com/hls/33/index.m3u8
@@ -280,7 +280,7 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門互動新聞台,http://202.175.127.77/live/show/ch2/index.m3u8
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
-台灣,#genre#
+台灣_0830,#genre#
 中视,rtmp://59.124.75.153/sat/tv091
 中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 中视经典 ★,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
@@ -394,7 +394,7 @@ WBtv,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d68?sign=mcnHvuVPiT02cz%2
 JET综合,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c74?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 AXN,rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
-海外,#genre#
+海外_0830,#genre#
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
@@ -414,13 +414,13 @@ RFI 法國國際廣播電臺,https://rfienchinois64k.ice.infomaniak.ch/rfienchin
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
 VOA卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 
-Afghan,#genre#
+Afghan_0830,#genre#
 Tolo News,https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 Tolo News,https://afghantv.live/tolonews/tracks-v1a1/mono.m3u8?token=cd07b8806e2d4d78bd88081a6ef46736bffe1c85-c097160d657634d83a6124234d037f82-1629550336-1629463936
 Ariana News,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 RTA,https://afghantv.live/rta/tracks-v1a1/mono.m3u8?token=e62f8282f19a93f2c5369b0b4178feb41a2f67d6-752b50eebf4769e3edf7ba2e0a514c28-1629551104-1629464704
 
-Global,#genre#
+Global_0830,#genre#
 ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8
 ABC News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcus.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News LIVE,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -2262,6 +2262,67 @@ iHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 
 
 
+1,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53bmacqaaadmalzoq2t5q4ac6dfadqalca.f10218.mp4?vkey=92B1B514E92EAC18FF6FD6A6C6E0CD38708EC9D693CE965E3DE051A0255F0C17C5EDF3C1F9418F86C5040FFD05395BEB76A54CD11208A90DAF073F36B90F34D5E2F1C7FA85C016542EE060E366B5D20DC4CB00BB2F396B64935F9FA5BC5191FEB77E88979721C965E704D2DA51535A4C8F5A5A457568AA1E1F8BF689EA9EAFC731F901F0BDC6A275
+2,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53dyacqaaa6mano7y2sfq4ahwdfajaalca.f10218.mp4?vkey=A62B00696ED613D58B0B171D2C7CA3C8B4B8E0260520EEFB1A51294005B23AAE81E4E2CBC2E0AA8B3B86ECB902154AC2FB461772087A34925635583E8B10311E57DFEC37EB791EFC1AC716A9AA22AAA13D078669D76FA94267410BDAF798331B2E430D5A55D5A5504E2B15A7F60700126322504E08D1C02BE7AB470F61FF600241706F71E9FB2646
+3,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53gqamoaaaniamoiy3onq4angdy44abq2a.f10218.mp4?vkey=AF36A5B053D9296310F09B6EC9AB220854EB0AA19472C70AB6C52A6F5FAB1A88EE03027CADA310B73B32B8227BE3268F95DCEBB717EE52866C574F2B2A7E1E825CD4AD82DDA66F43FCA11F39982D254A547D04EC31449B869D24338F665A36F370DB1FA9DB925FF08FDDA820BAAAC24BA175561FABB8E13C3D817617ED812FDBBA17764E58ABA2B6
+4,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53wmacmaaay4akvwa3trq4bm6de27qaisa.f10218.mp4?vkey=C682891ACABE19C4B8B3D581BB68F7785847E9D0D88B1A667D18A6086F5ECAAC222A0B0AF6D24CC8B91DA800D65A7A3E4CE2E58B9B4964B2A1D544E4BEF31573140D36AFE30F960C40559A1030798ED229AE66591D3015BE43F896B34988F33BC8DF54894C82CEBF5B7FB2C30A86BF6F04A26356C33858697B45D131C228202171D89104152E3E7D
+5,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53eeadqaaaamammea2qjq4aiodhawqapca.f10218.mp4?vkey=1FC1CC36094D6E21054C354877AC1E47BA3BD5F4EA2B24DDBC380F0774B84A9A92178B9EAA83A16C38DF3F368ABE63F4957EFC095F9D6CD5BF87078A295924722706006AAB27FD6B57760BA221703A8B407A3EBDCAED6AD08BA1E68C633CDB6DD16391BB7ACA014BFBB706B17AC097718CB09C13A6E1E39AA48E9E0F7B85CF004D6A19AF50092B49
+6,https://ltsbsy.qq.com/txGwz5jVv7Gu8aMtcVNNuwvVu6BIUK9fUAmkvsMR9VG5pHUd1PimTquaz6Y6ls77jsv0wXKFgHxpCR5I25KsOaxhtAA6oJNhH_JySGlu_BkBOgMp90W1oulM80M9RdvkiKCp8MHIO06Hz8B8dGZuwkXGAdSixmG4yl2h35gdIYvsR4-2AxChiQ/gzc_1000102_0b53diadaaaaq4am57i27rq4agwdgalaanca.f321002.ts.m3u8?ver=4
+7,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53cyamuaaadiadkaa2pzq4afwdzinabtsa.f10218.mp4?vkey=C3D2B4A22D74CAB52942D5ED2A1AF34196D05882675489C182F977A5078C17351752453EFDB4EB26C7834FBB7CB16F678F0597C66B12AE2C705D57F000274A988B2D932EE64DF8A7C580D153A38D1591FFC522944D5DF5A184AA2F4811530120BE612BCE813FAFA75C883E6CBE14D1984B57C6479A14711B4D1303CF1B065A175DF6CB24D8E763E1
+8,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53smacwaaammanefyysnq4be6dfopqal2a.f10218.mp4?vkey=36354A666E6AA58EC86D833F7DA9FEAC2A29FF9EF545CE4D1460A98A486C478DA7933DD71B7DC6401802E1F384CFDB4D1DB032184A1162A38C9DC501CD0656EB305EB0A58366E433AD9A2E31F648B4E08EC4E290160B9B698E8B5D5E0F449487C3FA08B3AFAFA1C56034288EDDA8FEF2E5DCF4662CCD45F26DAA8079800D53734859EDE1A59A1ED1
+9,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53wuaeeaaa2qaj3oqy6rq4bnodik4qarsa.f10218.mp4?vkey=6BAB6B8186DE82CA533682876D10ACD976912DD6870F490B8E6B498C1AC4C6BC4EC002D9E52E8CDC294653158D914D9887C10FB8E88D0B75A14D296A7C3FEC3696DF144F0DB33FF50B087B7BF97DA51846114BA50B3C76D129CFDF8CD8ACE66565FF43DEF0969EC7EF2F903E27C84AE779151F9882C33F22A7C41E2EAA250597087B50371E493628
+10,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53reac2aaabyaodray5vq4bcodfwcqakka.f10218.mp4?vkey=064D3948C91DB529DE6C8B4B91329B28AD3C4287F075ACC2ACE4344A6B52F62A6CF7FEDD4FB70466CEBAE00CA0383CB6E41150299E433F247EB2D29D47660363C78172B7473ABACEAE892811457CFA54BEB68D7336501A6D35FDC4C1429BCF7764D9CF4E55C59AA962FC0572D9DD33AD54B8FC72BD8E14A8D2FCA0BC848564B785E6F414C2AE3BD5
+11,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53ueac4aaa3yapcly35zq4biodf2wqaksa.f10218.mp4?vkey=498B0B4404CA86B83D0380A17065537D05C2D586426FB5FAC1D417F140532E257F4297B1E3D64DECFBDF93343230436A21F5454618BE1C3BC996F7CA9015110A947829608C0999AF54A76D72635FEB204E1FB259748E7DA8BD34B2211646FC94BE90FCA334CC9C43C2B91BF590609355BC2F8645F8EB843F4FCB9342ACE08E2E71FD24077413A622
+12,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b537iacqaaakaapozq35bq4b6wdfd3aalca.f10218.mp4?vkey=68C8CD04E23E410450A744AD561E414C59E68D874CF3BB0868C4EA4E79B17A01BDA6564667A1647C48706598791CB6F17A12039A3999C04458C1C7F5BE48290FCA7257E4B12A5E8655A50829A32410351F55AB70FA74CF7F7E8468F74974AFF0D2F58E5E9C2247AE74B6C8DA11E71F18BB06C79822014DB5FF61E331C080B270880627F18C5F26B9
+13,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53haacwaaa7aaitba4sjq4aogdfm2aal2a.f10218.mp4?vkey=C6DC6886580D9841268292149FECD67EB7F33AFB3E3DE3E93F4E1EF20D4BA1EBDE8974C09BE6BB854B8A2B359C04AA06BEF372EF741CB20BED59CD7AA845FA38BABDFDCDD9AF00E1F9759079948874AAF097CCB42B6B021034A881D641C09D11508D9EA65FDF7F2CBFE44E923FE479762471C4ED714E989CBD4C7A5C0B9F322A7D31E1F65D8C57B8
+14,https://pw.gzc.svp.tencent-cloud.com/gzc_1000102_0b53vqac6aaafianxhy5tbq4blgdf6qaak2a.f10218.mp4?vkey=25990877EE1E76396397029AEC81CA269E074D253C96D1690032BFFF8B111F9232ABDC791BA2F1DFB450C5F022BECA085807CA6B8C4174F33B2DFB43D33A69F72AF5D287144D947505E8E74E5E0DFC177AA1D73345F50619F20166848FBE1B1C09EE7ACA9F74FB3D223109854F0167E0D265B430885E5AA76118E0CCBF6393AFA22740179E36DEEA
+15,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/113f4bfc475c4ceb82d66dec84517471
+16,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/8f8168e70d07472982751ecb70a56555
+17,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/550af61885204fdc808e7ffae408e3a9
+18,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/4e9a83e947ea44f9abbb0e58eee71b56
+19,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/ed06b0ad8f764c1ba894aa3f32887c38
+20,https://1047.sz.svp.tencent-cloud.com/gzc_1000102_0b53uuacyaaaseaigbjatnq4bjodfsuqakca.f10217.mp4?vkey=98E17AE7731D8970054244E4FFEC60A67ED1F19F3B8F62BDAA5943F771EBAFAA23C2747543E07225DDCC0B185C065F32BC9D375A4BB68CC23D32169BFE596731669FFDF7750E343E7C050F8542F89CE7D016B2400FCCDA13FA137189C59A4F0CB739C2330A516BB5467D8FC5FD7D575F952C253E667F6615
+21,https://sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-0004/29b33a1c4a7b44fc81a66a3062e3fa11
+22,https://1047.sz.svp.tencent-cloud.com/gzc_1000102_0b5374aekaaadiah36zf7jq4b76dixzqaqka.f10217.mp4?vkey=D079FFED5B3D46F631FD70D7B6306094A7B9BA52C5570D139FA5F385DFFA8877C44C9F73D305E7F0B2A9D0E62FEA09E1C2143BA6CD4E0B8D8B8216EAC457BAF61A363388F2030D191C005F693A1BA3CB8EB91E28591B804B010EF552E58C920C904A3B8086FB86DCE1CC88A06B62571D43106FE49CEBF2F9
+23,https://sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-0004/2a140111a28e421285f190df5f12a3fd
+24,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/3305a243b56947a7b802abc94f975a7c
+25,https://sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-0004/cf10ec87eb67431da1904a7d0858745e
+26,https://sf3-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/92861545c0bf427fb30c00e00c025f49
+27,https://xw.al/3uz5p
+28,https://xw.al/3uz5p
+
+
+
+1,https://mpvideo.qpic.cn/0bf25eaegaaalqaeflis7fqvb2odipuqaqya.f10002.mp4?dis_k=850fd99ea617a00a38044270b7991b7e&dis_t=1630231803
+2,https://mpvideo.qpic.cn/0bf24eaeuaaaj4alouyr7fqvbyodjlqqasqa.f10002.mp4?dis_k=14fed08449bbb3edd0a134015712a98f&dis_t=1630231779
+3,https://mpvideo.qpic.cn/0b78qaaa4aaakiaa2risxjqvbagdb2aaadqa.f10002.mp4?dis_k=dd7136ce52c6207054ada2412b2e99f3&dis_t=1630230949
+4,https://mpvideo.qpic.cn/0bf2suaeyaaaaiaeqkys75qvbfodjskqataa.f10002.mp4?dis_k=04a4df3f08ec7c62e8f995a8d02b96cd&dis_t=1630231065
+5,https://mpvideo.qpic.cn/0bf2pqaeoaaas4aehjas6fqva7gdi56aarya.f10002.mp4?dis_k=ac6910c1bd82c8a86fe29784416aa6bd&dis_t=1630231248
+6,https://mpvideo.qpic.cn/0bf2iqae2aaaluagumyt7bqvargdjvcaatia.f10002.mp4?dis_k=1c20cb571fb4fb319baf23aa78a86206&dis_t=1630231443
+7,https://mpvideo.qpic.cn/0bf24uaeqaaapyadesyu6zqvbzodjdsqasaa.f10002.mp4?dis_k=7987993809a071d772253f11a5958e6e&dis_t=1630231686
+8,https://mpvideo.qpic.cn/0bf2puae4aaaxmajyuyv65qva7odjz6qatqa.f10002.mp4?dis_k=4b82df83c2c1ab33e05f2e60538e3aeb&dis_t=1630231021
+9,https://mpvideo.qpic.cn/0bf2uyae6aaawuag74yx7bqvbjwdj6taatya.f10002.mp4?dis_k=9fee989c0afcda4ac60239eb59c6d0fc&dis_t=1630231647
+10,https://mpvideo.qpic.cn/0bf2tiafoaaa5iajglyy55qvbgwdk6naavya.f10002.mp4?dis_k=bcc26b03cf68198533d81b14c21de121&dis_t=1630231621
+11,https://mpvideo.qpic.cn/0bf2vuafuaaayyapzai3tnqvblodlkwqawqa.f10002.mp4?dis_k=b5b2a48122c3cc091cb22ddb811fcb13&dis_t=1630231338
+12,https://mpvideo.qpic.cn/0bf2k4afoaaaryaoooq34fqvav6dk5lqavya.f10002.mp4?dis_k=f01adfc77e0e9d31caa5ebc86991bf68&dis_t=1630230722
+13,https://mpvideo.qpic.cn/0bf2qaagaaaateajxra43jqvbagdmcaaayaa.f10002.mp4?dis_k=a32f8fb9717304df083ba8e8b17461de&dis_t=1630231343
+14,https://mpvideo.qpic.cn/0bf2suagcaaaduadjgy635qvbfodmgkqayia.f10002.mp4?dis_k=61c321cad294c6f7f2def66bf61c4326&dis_t=1630231521
+15,https://mpvideo.qpic.cn/0bf2weagkaaajeabuba63vqvbmodmwyqazia.f10002.mp4?dis_k=07ae12a90b6bb7afca6f2f578dfe2f80&dis_t=1630231494
+16,https://mpvideo.qpic.cn/0bf2weaggaaahuahehq73vqvbmodmoyqayya.f10002.mp4?dis_k=61d408b7d4d10e2d25830a0bf8d95518&dis_t=1630231206
+17,https://mpvideo.qpic.cn/0bf2oyaggaaahyahoiq73fqva5wdmn3aayya.f10002.mp4?dis_k=28970ce98b6a3e9d4428daa357359f9c&dis_t=1630231379
+18,https://mpvideo.qpic.cn/0bf2smagcaaaw4ahmxa7ufqvbe6dmgjqayia.f10002.mp4?dis_k=d707c3935cad114829bbb10b56db2bee&dis_t=1630231449
+19,https://mpvideo.qpic.cn/0bf2puagkaaaqianhki73jqva7odmv6qazia.f10002.mp4?dis_k=d9d9e3007b10cd278f8f6d960c76574b&dis_t=1630231235
+20,https://mpvideo.qpic.cn/0bf2lqajgaaa4eagd2jafvqvaxgdsnoabeya.f10002.mp4?dis_k=b9e33692b2682454c180d8961c6c1183&dis_t=1630231201
+21,https://mpvideo.qpic.cn/0bf2jiahcaaaxqaor4jdyzqvaswdoffaa4ia.f10002.mp4?dis_k=cafb84ddd2f40b3f145f1e1028dc6276&dis_t=1630230961
+22,https://xw.al/3uz5p
+23,https://xw.al/3uz5p
+24,https://mpvideo.qpic.cn/0b78naaaaaaa7yaffybi7fqva2gdabuaaaaa.f10002.mp4?dis_k=b410f0bd27742e2f13d0f12c8b4aa2fe&dis_t=1630230340
+25,https://mpvideo.qpic.cn/0bf2wiaaqaaaheaotxbi4zqvbmwdbczaacaa.f10002.mp4?dis_k=9fe16b82bebdb96ba13e6173d7442b12&dis_t=1630230424
+26,https://mpvideo.qpic.cn/0bf2geaayaaaxeadyobk4fqvamodbqyqadaa.f10002.mp4?dis_k=300eed585d3aa97a008201ad2ea5970c&dis_t=1630230782
+27,https://xw.al/3uz5p
+28,https://xw.al/3uz5p
+
+
 01,https://lf3-toutiao-ckv-tos.pstatp.com/obj/tos-cn-v-0004/c639408a3865418a894b6ed0e901da64
 02,https://lf3-toutiao-ckv-tos.pstatp.com/obj/tos-cn-v-0004/030dd214d9ca495da56472b0e8264e98
 03,https://lf3-toutiao-ckv-tos.pstatp.com/obj/tos-cn-v-0004/0910165f36a648b7bc61458c456d3ae1
@@ -2288,5 +2349,23 @@ iHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 24,https://pan.xindongli-edu.com/mp4hls/m3u8/saoheifengbao24.m3u8
 25,https://pan.xindongli-edu.com/mp4hls/m3u8/saoheifengbao25.m3u8
 26,https://lf3-toutiao-ckv-tos.pstatp.com/obj/tos-cn-v-0004/92861545c0bf427fb30c00e00c025f49
-27,https://pan.xindongli-edu.com/mp4hls/m3u8/saoheifengbao27.m3u8
-28,https://pan.xindongli-edu.com/mp4hls/m3u8/saoheifengbao28.m3u8
+27,https://xw.al/3uz5p
+28,https://xw.al/3uz5p
+
+
+📺love_0830,#genre#
+
+
+彩虹e台,P2p://ns2.hellotvvod.com:9906/8e95bf231bcd4cf59337095a8cefa997.ts
+彩虹电影台,P2p://ns2.hellotvvod.com:9906/dde3ec91289945b8b912b635d613b92d.ts
+LOOK TV,P2p://ns2.hellotvvod.com:9906/6cf8a99508a8452cb4c9e46908b95fcb.ts
+潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/a46b5e96761d4962a6f1f43f6f3bde9a.ts
+惊艳成人电影台,P2p://ns2.hellotvvod.com:9906/98bac20b3cc141caa8050a4a7201875f.ts
+松视1台,P2p://ns2.hellotvvod.com:9906/0ca50bffb0b442d08f84dbcc2470b36b.ts
+松视2台,P2p://ns2.hellotvvod.com:9906/00b2f24ef5314167bdad63ddb8fc3f58.ts
+潘朵啦粉红台,P2p://ns2.hellotvvod.com:9906/4d100aa09c6b4a09a5fd579ce2a5293e.ts
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/68e58297e9204e1c95bc80562af55204.ts
+香蕉台,P2p://ns2.hellotvvod.com:9906/178e2013c4ee454a8d16c1c080312491.tsHOT,
+P2p://ns2.hellotvvod.com:9906/9146b5e83143427e97da97a9e0fc4ca3.ts松视3台,
+P2p://ns2.hellotvvod.com:9906/defbf182bcb24a9284db273164fbcca1.ts
+JStar极限台,P2p://ns2.hellotvvod.com:9906/35d15fddf36a4b0e8941869992688feb.ts
