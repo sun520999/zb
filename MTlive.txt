@@ -1,0 +1,46 @@
+正在直播,https://cdn.jsdelivr.net/gh/sun520999/zb/qy1.mp4#https://raw.githubusercontent.com/sun520999/zb/master/qy1.mp4
+寰宇新闻,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/hyxw.m3u8
+寰宇新闻网,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/hy.m3u8
+节点直播(不良林),https://raw.githubusercontent.com/sun520999/IPTV/MTlive/bll.m3u8
+
+CTI中天新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/ctixw.m3u8
+東森財經新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/ebc.m3u8
+東森新聞https://raw.githubusercontent.com/sun520999/IPTV/MTlive/ebcnews.m3u8
+華視新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/hsxw.m3u8
+民視新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/msxw.m3u8
+NASA Live,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/nasalive.m3u8
+三立新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/slxw.m3u8
+台視新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tsxw.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tvbsnews.m3u8
+TVBS 56頻道,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tvbs.m3u8
+新唐人亞太台,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/xintangrenasia.m3u8
+
+
+ABC NEWS,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/ABCnews.m3u8
+GB NEWS,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/GBNEWS.m3u8
+Beautiful Earth(4K),https://raw.githubusercontent.com/sun520999/IPTV/MTlive/earth.m3u8
+NBC NEWS,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/NBCNEWS.m3u8
+DUNYA NEWS[巴基斯坦],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/livedunyanews.m3u8
+GEO NEWS[巴基斯坦],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/GEONEWS.m3u8#https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/ap-southeast-1/6100381078001/profile_0/chunklist_dvr.m3u8#https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/ap-southeast-1/6100381078001/profile_1/chunklist_dvr.m3u8#https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/ap-southeast-1/6100381078001/profile_2/chunklist_dvr.m3u8
+GEOTEZ TV[巴基斯坦],https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/geoTez/Live1/chunks_dvr.m3u8#https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/geoTez/Live2/chunks_dvr.m3u8#https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/geoTez/Live3/chunks_dvr.m3u8
+ZEE live[印度],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/zeelive.m3u8
+ZeeBusiness[印度],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/ZeeBusiness.m3u8
+CNBC Awaaz[印度],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/CNBCawaaz.m3u8
+
+
+🔴Peppa Pig,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/PeppaPig.m3u8 
+🔴Tom and Jerry 🇪🇸,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tomjerry.m3u8
+
+
+
+直播源更新中！
+敬请关注WX[晴园]！
+         
+
+
+
+
+
+
+
+
