@@ -30,7 +30,7 @@ CNBC Awaaz[印度],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/CNBCa
 
 
 🔴Peppa Pig,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/PeppaPig.m3u8 
-🔴Tom and Jerry 🇪🇸,https://raw.githubusercontent.com/sun520999/zb/404.mp4
+🔴Tom and Jerry 🇪🇸,https://raw.githubusercontent.com/sun520999/zb/master/404.mp4
 
 
 
