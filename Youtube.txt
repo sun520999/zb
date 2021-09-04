@@ -13,6 +13,7 @@ NASA Live,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/nasalive.m3u8
 台視新聞,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tsxw.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tvbsnews.m3u8
 TVBS 56頻道,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tvbs.m3u8
+運通財經台,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/EFTV.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/xintangrenasia.m3u8
 
 
@@ -29,7 +30,7 @@ CNBC Awaaz[印度],https://raw.githubusercontent.com/sun520999/IPTV/MTlive/CNBCa
 
 
 🔴Peppa Pig,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/PeppaPig.m3u8 
-🔴Tom and Jerry 🇪🇸,https://raw.githubusercontent.com/sun520999/IPTV/MTlive/tomjerry.m3u8
+
 
 
 
